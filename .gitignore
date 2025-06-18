@@ -1,0 +1,21 @@
+# Ignore Python environments
+.venv/
+venv/
+*/env/
+*/venv/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore large library folders
+**/Lib/
+**/Scripts/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Caches & logs
+*.log
+.cache/
