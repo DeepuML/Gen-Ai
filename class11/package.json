@@ -1,0 +1,16 @@
+{
+  "name": "class11",
+  "version": "1.0.0",
+  "description": "A full-stack application for generating AI-powered knowledge graphs on any topic. This project consists of three main components:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

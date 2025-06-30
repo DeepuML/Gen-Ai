@@ -1,0 +1,8 @@
+crewai==0.23.3
+crewai-tools==0.1.6
+openai>=1.25.0
+transformers>=4.41.1
+pydantic>=2.7.1
+tqdm
+python-dotenv
+requests
